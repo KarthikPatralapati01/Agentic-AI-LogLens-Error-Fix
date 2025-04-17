@@ -1,0 +1,5 @@
+
+google-generativeai
+chromadb
+serpapi
+requests
